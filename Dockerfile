@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:latest
 MAINTAINER Renee Baecker
 
 COPY cpanfile /
